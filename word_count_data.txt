@@ -1,0 +1,8 @@
+Hadoop Streaming is a feature that comes with Hadoop and allows users or
+developers to use various different languages for writing MapReduce
+programs like Python, C++, Ruby, etc. It supports all the languages that can
+read from standard input and write to standard output. We will be
+implementing Python with Hadoop Streaming and will observe how it
+works. We will implement the word count problem in python to understand
+Hadoop Streaming. We will be creating mapper.py and reducer.py to
+perform map and reduce tasks.
